@@ -1,7 +1,9 @@
 # Skill Endorsement DApp (Solidity + React)
 
  This project is my ongoing attempt to build a full-stack decentralized application (DApp) for skill endorsement using smart contracts.
- **Note:** This project is still under development. I am new to blockchain development and exploring Solidity, Hardhat, React, and Web3 integration. Some features may have errors as I actively learn and improve.
+
+ **Note:** This project is still under development. I am new to blockchain development & auditing and exploring Solidity, Hardhat, React, and Web3 integration. Some features may have errors as I actively learn and improve.
+
  **Project Overview:**
  The goal is to create a decentralized platform where users can:
  - Add their skills with an optional ETH stake
@@ -18,18 +20,19 @@
  # Tech Stack:
  - Solidity (0.8.18)
  - Hardhat
-- React + Vite
-- TailwindCSS
-- Ethers.js
-- MetaMask
-- Sepolia Testnet
+ - React + Vite
+ - TailwindCSS
+ - Ethers.js
+ - MetaMask
+ - Sepolia Testnet
 
  # Project Structure:
  skill-endorsement-dapp/
- contracts/ (Solidity smart contracts)
- scripts/ (Deployment scripts)
- skill-endorsement-frontend/ (React frontend app)
- .env (local, ignored)
+├── contracts/
+├── scripts/
+├── skill-endorsement-frontend/
+├── README.md
+
  *Features Completed:*
  - Basic Smart Contract: Users can add skills
  - Skill Data Stored on Blockchain
@@ -44,7 +47,12 @@
  - Fully Functional Frontend UI
 
 **How to Run (Locally):**
- Prerequisites:- Node.js- MetaMask- Sepolia test ETH- Alchemy API Key
+ Prerequisites:
+ - Node.js
+ - MetaMask
+ - Sepolia test ETH
+ - Alchemy API Key
+
  Steps:
  1. Backend Setup
    cd skill-endorsement-dapp
