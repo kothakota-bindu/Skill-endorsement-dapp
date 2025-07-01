@@ -27,7 +27,7 @@
  - Sepolia Testnet
 
  # Project Structure:
- 
+ ```
  skill-endorsement-dapp/
 ├── contracts/
 │ └── SkillEndorse.sol
@@ -42,7 +42,7 @@
 │ │ │ └── contractConfig.js
 │ │ └── App.jsx
 ├── README.md
-
+```
  *Features Completed:*
  - Basic Smart Contract: Users can add skills
  - Skill Data Stored on Blockchain
