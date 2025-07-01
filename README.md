@@ -27,10 +27,20 @@
  - Sepolia Testnet
 
  # Project Structure:
+ 
  skill-endorsement-dapp/
-├── contracts/ # Solidity smart contracts
-├── scripts/ # Deployment scripts
-├── skill-endorsement-frontend/ # React frontend app
+├── contracts/
+│ └── SkillEndorse.sol
+├── scripts/
+│ └── deploy.js
+├── skill-endorsement-frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ │ └── WalletConnect.jsx
+│ │ ├── utils/
+│ │ │ ├── SkillEndorseABI.json
+│ │ │ └── contractConfig.js
+│ │ └── App.jsx
 ├── README.md
 
  *Features Completed:*
