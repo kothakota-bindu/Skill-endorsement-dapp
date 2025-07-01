@@ -28,10 +28,10 @@
 
  # Project Structure:
  skill-endorsement-dapp/
- ├── contracts/
- ├── scripts/
- ├── skill-endorsement-frontend/
- ├── README.md
+├── contracts/ # Solidity smart contracts
+├── scripts/ # Deployment scripts
+├── skill-endorsement-frontend/ # React frontend app
+├── README.md
 
  *Features Completed:*
  - Basic Smart Contract: Users can add skills
