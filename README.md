@@ -1,8 +1,8 @@
 # Skill Endorsement DApp (Solidity + React)
 
- This project is my ongoing attempt to build a full-stack decentralized application (DApp) for skill endorsement using smart contracts.
+ This project marks the beginning of my blockchain journey in building a decentralized application (DApp) for skill endorsement using smart contracts.
 
- **Note:** This project is still under development. I am new to blockchain development & auditing and exploring Solidity, Hardhat, React, and Web3 integration. Some features may have errors as I actively learn and improve.
+ **Note:** I am exploring blockchain development, Solidity, Hardhat, React, and Web3 integration. Some features may have errors as I actively learn and improve.
 
  **Project Overview:**
  The goal is to create a decentralized platform where users can:
@@ -78,16 +78,9 @@
 
  ## 🌟 Disclaimer for Recruiters / Reviewers
 
-This project reflects my initial efforts to explore blockchain development, starting with Solidity and full-stack DApp concepts. However, through this process, I discovered a strong interest in Smart Contract Security and Auditing.
+This project reflects my initial efforts to explore blockchain development, starting with Solidity and full-stack DApp concepts. 
 
-I am now actively transitioning my career towards **Smart Contract Auditing**, leveraging my 5+ years of IT experience in other technologies, combined with my hands-on learning in:
-
-- Solidity fundamentals  
-- Contract deployment and testing  
-- Identifying vulnerabilities and best practices  
-- Reviewing and understanding real-world smart contract patterns  
-
-I continue to enhance my skills through auditing tools, security research, and practical assessments to complement my existing technical background.
+The project in this repository was developed during the initial stages of my Web3 learning journey. As a result, certain implementations may contain errors, incomplete functionalities, or non-optimized code. These repositories are maintained primarily to demonstrate my progression and foundational understanding, and should not be interpreted as production-ready work. I welcome any feedback as I continue to refine my skills and build more advanced solutions
 
 *Future Plans:*
 - Add unit tests
